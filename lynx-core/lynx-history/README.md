@@ -1,0 +1,11 @@
+---
+cover: >-
+  https://get.clevver.org/f59210fc1a9868673093f090e11d8c7c441b41a296829d1718ebeba3a381ef87.png
+coverY: 0
+---
+
+# Lynx History
+
+Lynx is a cryptocurrency from the past designed for the future because it evolved from an existing coin: Kittehcoin (MEOW). Released in 2013 in response to the Dogecoin project, Kittehcoin was initially met with enthusiasm in the crypto community. However, the project remained dormant for years because of a lack of continual development and deliverable solutions. During this time, hackers identified a design flaw in the code that increased the number of coins released with each block they mined. (In non-technical terms, this is similar to hacking into an ATM to receive $20,000 on a $20 withdrawal.) This hack upset the fixed scarcity of the coin, immediately devalued it, and users lost confidence in the project. As a result, ongoing interest in the coin waned, and it was considered dead. In 2017, Ben Wilson, a technical application designer with over 25 years of software development experience, decided to fix the coin and revive the dormant community. Kittehcoin’s existing community and user-base is one of the reasons he decided to develop an existing project instead of launching a new one; why try and build a new audience from scratch when one already exists - especially when the existing audience already has an economic incentive to support the project?
+
+Furthermore, additional criteria also factored into his decision to develop an existing coin instead of creating a new one. New crypto projects and ICO’s are often correctly met with skepticism because often they are scams that do not solve any real problems. So, he decided to demonstrate his ability to solve real problems using cryptocurrency by solving a real cryptocurrency problem. With this in mind, he set out to fix the design flaw in Kittehcoin and re-brand the updated project as Lynx. To accomplish this, he successfully cloned Litecoin and ported the Kittehcoin blockchain to it. Now, Lynx has all the benefits of Litecoin with the entire transaction history of Kittehcoin. His work fixed the original design flaw, benefits the existing Kittehcoin holders, and implements all of the security features of Litecoin.
